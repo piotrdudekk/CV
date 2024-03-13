@@ -1,0 +1,170 @@
+body {
+    background: #e8faff;
+    font-family: "Montserrat", sans-serif;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    height: 1319px;
+    justify-content: center;
+    margin: 0 auto;
+    background: #ffffff;
+    box-shadow: 6px 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+aside {
+    width: 370px;
+    height: 1319px;
+    background: #1e2939;
+}
+
+.cv-photo {
+    margin-top: 40px;
+}
+
+.header-sec {
+    font-weight: 700;
+    font-size: 22px;
+    color: #fff;
+    /*margin-left: 40px;*/
+}
+
+.contact-links {
+    color: #fff;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.list-sec {
+    color: #fb6d3a;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    margin-left: 0px;
+    padding-left: 0px;
+    list-style-position: inside;
+}
+
+.list-sec-item {
+    color: #fff;
+}
+
+.contact-block {
+    margin-left: 40px;
+    margin-top: 51px;
+}
+
+.tech-skills-block {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+
+.soft-skills-block {
+    margin-top: 44px;
+    margin-left: 40px;
+}
+
+main {
+    padding: 102px 88px 102px 88px;
+}
+
+.main-description {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 171%;
+    color: #595959;
+    margin-bottom: 40px;
+    width: 700px;
+    height: 230px;
+}
+
+.job-title {
+    font-weight: 700;
+    font-size: 14px;
+    color: #000;
+}
+
+.name {
+    font-weight: 700;
+    font-size: 45px;
+    color: #000;
+}
+
+.projects {
+    width: 700px;
+    height: 107px;
+    margin-bottom: 51px;
+}
+
+.list-pri {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 171%;
+    color: #000;
+    padding-left: 0px;
+    list-style-position: inside;
+}
+
+.list-pri-item-u {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    color: #595959;
+}
+
+.list-pri-item {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    color: #595959;
+}
+
+.header-2-pri {
+    font-weight: 700;
+    font-size: 22px;
+    color: #000;
+}
+
+.last-job {
+    margin-bottom: 43px;
+}
+
+.header-3-pri {
+    font-weight: 700;
+    font-size: 16px;
+    color: #000;
+}
+
+.header-3o-pri {
+    color: #fb6d3a;
+}
+
+.date {
+    font-weight: 400;
+    font-size: 12px;
+    color: #a8a8a8;
+}
+
+.list-2-pri {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 171%;
+    color: #595959;
+    padding-left: 0px;
+    list-style-position: inside;
+}
+
+.header-4-pri {
+    font-weight: 700;
+    font-size: 14px;
+    color: #000;
+}
